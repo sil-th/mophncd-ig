@@ -1,0 +1,16 @@
+{
+  "package-id": "silth.fhir.th.mophncd",
+  "canonical": "https://fhir-ig.sil-th.org/mophncd/",
+  "title": "MOPH NCD Implementation Guide",
+  "introduction": "An implementation guide for adopting FHIR for health information exchange about NCD care in for the Big Rock 2 project.",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build (latest in version control)",
+      "path": "https://fhir-ig.sil-th.org/mophncd/",
+      "status": "ci-build",
+      "current": true,
+      "fhirversion": "4.3.0"
+    }
+  ]
+}

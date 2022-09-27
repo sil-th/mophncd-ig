@@ -1,0 +1,50 @@
+# ╭─────────────────────────────────ImplementationGuide-fish.json──────────────────────────────────╮
+# │  The properties below are used to create the ImplementationGuide resource. For a list of       │
+# │  supported properties, see:                                                                    │
+# │  https://fshschool.org/docs/sushi/configuration/#full-configuration                            │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+id: silth.fhir.th.mophncd
+canonical: https://fhir-ig.sil-th.org/mophncd
+version: 0.1.0
+name: MophNCDImplementaionGuide
+title: (Draft) MoPH NCD (MoPH-NCD) - FHIR Implementation Guide
+status: draft
+publisher: Standards and Interoperability Lab - Thailand (SIL-TH)
+# contact:
+#   - name: Bill Cod
+#     telecom:
+#       - system: email
+#         value: cod@reef.gov
+jurisdiction: "urn:iso:std:iso:3166#TH"
+description: An implementation guide for adopting FHIR for health information exchange about NCD care in for the Big Rock 2 project
+license: CC0-1.0
+fhirVersion: 4.3.0
+dependencies:
+  sil-th.terms.core: dev
+  hl7.fhir.uv.ips: 1.0.0
+parameters:
+  apply-publisher: true
+  apply-contact: true
+  show-inherited-invariants: false
+  excludettl: true
+  excludemap: true
+copyrightYear: 2022+
+releaseLabel: draft
+
+pages:
+  index.md:
+    title: MoPH NCD (MoPH-NCD)
+  # profiles.md:
+  #   title: รายการ Profiles
+  # extensions.md:
+  #   title: รายการ Extensions
+
+# ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
+# │  To use a provided input/includes/menu.xml file, delete the "menu" property below.             │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+menu:
+  หน้าแรก: index.html
+  สารบัญ: toc.html
+  เนื้อหาทั้งหมด: artifacts.html
+  # Profiles: profiles.html
+  # Extensions: extensions.html
