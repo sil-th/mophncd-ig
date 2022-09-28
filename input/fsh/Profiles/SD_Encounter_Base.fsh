@@ -1,4 +1,4 @@
-Profile: MophPcEncounterBase
+Profile: MophNcdEncounterBase
 Parent: Encounter
 Id: mophncd-encounter-base
 Title: "MoPH-NCD Encounter"

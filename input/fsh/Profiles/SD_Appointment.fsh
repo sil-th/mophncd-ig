@@ -1,8 +1,8 @@
-Profile: MophPcAppointmentBase
+Profile: MophNcdAppointmentBase
 Parent: Appointment
 Id: mophncd-appointment-base
 Title: "MoPH-NCD Appointment"
-Description: "ข้อมูลการนัดมารับบริการครั้งต่อไปของผู้ที่มารับบริการ"
+Description: "การนัดมารับบริการ"
 * ^url = $SD_Appointment_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

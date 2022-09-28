@@ -1,8 +1,8 @@
-Profile: MophPcPractitionerBase
+Profile: MophNcdPractitionerBase
 Parent: Practitioner
 Id: mophncd-practitioner-base
 Title: "MoPH-NCD Practitioner"
-Description: "ข้อมูลผู้ให้บริการของสถานพยาบาล"
+Description: "ข้อมูลผู้ให้บริการสุขภาพ"
 * ^url = $SD_Practitioner_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

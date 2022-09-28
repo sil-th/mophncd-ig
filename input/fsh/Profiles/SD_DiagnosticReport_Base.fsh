@@ -1,4 +1,4 @@
-Profile: MophPcDiagnosticReportBase
+Profile: MophNcdDiagnosticReportBase
 Parent: DiagnosticReport
 Id: mophncd-diagnosticreport-base
 Title: "MoPH-NCD DiagnosticReport"

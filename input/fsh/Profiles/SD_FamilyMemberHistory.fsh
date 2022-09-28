@@ -2,7 +2,7 @@ Profile: MophNcdFamilyMemberHistoryBase
 Parent: FamilyMemberHistory
 Id: mophncd-familymemberhistory-base
 Title: "MoPH-NCD FamilyMemberHistory"
-Description: "ข้อมูลประวัติความเจ็บป่วยของญาติ"
+Description: "ประวัติความเจ็บป่วยของญาติ"
 * ^url = $SD_FamilyMemberHistory_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

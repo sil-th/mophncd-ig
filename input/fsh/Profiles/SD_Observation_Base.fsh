@@ -1,8 +1,8 @@
-Profile: MophPcObservationBase
+Profile: MophNcdObservationBase
 Parent: Observation
 Id: mophncd-observation-base
 Title: "MoPH-NCD Observation"
-Description: "ข้อมูลการตรวจทางคลินิกและการตรวจทางห้องปฏิบัติการ"
+Description: "การตรวจทางคลินิกและทางห้องปฏิบัติการ"
 * ^url = $SD_Observation_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

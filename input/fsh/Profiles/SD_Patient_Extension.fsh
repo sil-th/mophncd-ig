@@ -1,4 +1,4 @@
-Profile: MophPcPatientExtensionNationality
+Profile: MophNcdPatientExtensionNationality
 Parent: $EX_HL7_Nationality
 Id: mophncd-patient-extension-nationality
 Title: "MoPH-NCDPatient Extension: Nationality"
@@ -25,7 +25,7 @@ Description: "สัญชาติของผู้ป่วย"
 * extension[code].valueCodeableConcept.coding[thcc].code 1..
 
 
-Profile: MophPcPatientExtensionReligion
+Profile: MophNcdPatientExtensionReligion
 Parent: $EX_HL7_Religion
 Id: mophncd-patient-extension-religion
 Title: "MoPH-NCDPatient Extension: Religion"

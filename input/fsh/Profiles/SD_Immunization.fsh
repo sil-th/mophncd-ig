@@ -1,8 +1,8 @@
-Profile: MophPcImmunizationBase
+Profile: MophNcdImmunizationBase
 Parent: Immunization
 Id: mophncd-immunization-base
 Title: "MoPH-NCD Immunization"
-Description: "การมารับบริการฉีดวัคซีน"
+Description: "การรับวัคซีน"
 * ^url = $SD_Immunization_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

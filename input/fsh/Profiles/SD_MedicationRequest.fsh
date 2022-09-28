@@ -1,4 +1,4 @@
-Profile: MophPcMedicationRequestBase
+Profile: MophNcdMedicationRequestBase
 Parent: MedicationRequest
 Id: mophncd-medicationrequest-base
 Title: "MoPH-NCD MedicationRequest"

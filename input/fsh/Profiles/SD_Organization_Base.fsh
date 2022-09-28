@@ -1,4 +1,4 @@
-Profile: MophPcOrganizationBase
+Profile: MophNcdOrganizationBase
 Parent: Organization
 Id: mophncd-organization-base
 Title: "MoPH-NCD Organization"

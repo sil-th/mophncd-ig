@@ -1,4 +1,4 @@
-Profile: MophPcProcedureBase
+Profile: MophNcdProcedureBase
 Parent: Procedure
 Id: mophncd-procedure-base
 Title: "MoPH-NCD Procedure"

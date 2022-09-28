@@ -1,8 +1,8 @@
-Profile: MophPcPatientBase
+Profile: MophNcdPatientBase
 Parent: Patient
 Id: mophncd-patient-base
 Title: "MoPH-NCD Patient"
-Description: "ข้อมูลทั่วไปของประชาชนในเขตรับผิดชอบ และผู้ที่มาใช้บริการ"
+Description: "ข้อมูลทั่วไปของผู้ป่วย"
 * ^url = $SD_Patient_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"
