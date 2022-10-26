@@ -2,7 +2,7 @@ Profile: MophNcdAllergyIntoleranceBase
 Parent: AllergyIntolerance
 Id: mophncd-allergyintolerance-base
 Title: "MoPH-NCD AllergyIntolerance"
-Description: "ประวัติการแพ้ยาหรือสารอื่น ๆ ของผู้ป่วย"
+Description: "การแพ้ยาและสารอื่น ๆ"
 * ^url = $SD_AllergyIntolerance_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

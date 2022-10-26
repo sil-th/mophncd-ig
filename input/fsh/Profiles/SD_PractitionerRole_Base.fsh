@@ -2,7 +2,7 @@ Profile: MophNcdPractitionerRoleBase
 Parent: PractitionerRole
 Id: mophncd-practitionerrole-base
 Title: "MoPH-NCD PractitionerRole"
-Description: "ข้อมูลการปฏิบัติงานผู้ให้บริการสุขภาพ"
+Description: "บทบาทในการปฏิบัติงานของผู้ให้บริการสุขภาพ"
 * ^url = $SD_PractitionerRole_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

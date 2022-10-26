@@ -2,7 +2,7 @@ Profile: MophNcdDiagnosticReportBase
 Parent: DiagnosticReport
 Id: mophncd-diagnosticreport-base
 Title: "MoPH-NCD DiagnosticReport"
-Description: "การรายงานผลการตรวจ"
+Description: "การรายงานผลการตรวจวินิจฉัย"
 * ^url = $SD_DiagnosticReport_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

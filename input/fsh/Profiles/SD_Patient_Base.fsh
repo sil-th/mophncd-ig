@@ -2,7 +2,7 @@ Profile: MophNcdPatientBase
 Parent: Patient
 Id: mophncd-patient-base
 Title: "MoPH-NCD Patient"
-Description: "ข้อมูลทั่วไปของผู้ป่วย"
+Description: "ผู้ป่วย/ผู้รับบริการสุขภาพ"
 * ^url = $SD_Patient_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

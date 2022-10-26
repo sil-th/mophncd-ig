@@ -2,7 +2,7 @@ Profile: MophNcdEncounterBase
 Parent: Encounter
 Id: mophncd-encounter-base
 Title: "MoPH-NCD Encounter"
-Description: "การรับบริการโดยทั่วไป"
+Description: "การรับบริการสุขภาพ"
 * ^url = $SD_Encounter_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

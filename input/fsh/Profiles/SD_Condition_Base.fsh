@@ -2,7 +2,7 @@ Profile: MophNcdConditionBase
 Parent: Condition
 Id: mophncd-condition-base
 Title: "MoPH-NCD Condition"
-Description: "การวินิจฉัย/สภาวะสุขภาพ"
+Description: "การวินิจฉัยโรค/ปัญหาสุขภาพ/อาการทางคลินิก"
 * ^url = $SD_Condition_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

@@ -8,7 +8,8 @@ Description: "การนัดมารับบริการ"
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"
 * ^jurisdiction = urn:iso:std:iso:3166#TH
 * status ^short = "สถานะการนัด (มองจากฝั่งต้นทางการนัด)"
-* serviceCategory ^short = "บริการที่นัดรับ"
+* serviceCategory ^short = "ประเภทบริการที่นัดรับ"
+* serviceType ^short = "บริการที่นัดรับ"
 * reasonCode ^short = "รหัสโรคหรือกิจกรรมที่นัด"
 * start MS
 * start ^short = "วัน-เวลาที่นัดมารับบริการ"
