@@ -8,8 +8,8 @@ Description: "การแพ้ยาและสารอื่น ๆ"
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"
 * ^jurisdiction = urn:iso:std:iso:3166#TH
 * extension contains
-    $EX_TH_AllergyIntoleranceCertainy named certainy 0..1 MS
-* extension[certainy] ^short = "ประเภทการวินิจฉัยการแพ้ยา 5 ประเภท"
+    $EX_TH_AllergyIntoleranceCertainty named certainty 0..1 MS
+* extension[certainty] ^short = "ประเภทการวินิจฉัยการแพ้ยา 5 ประเภท"
 * clinicalStatus MS
 * verificationStatus MS
 * code MS

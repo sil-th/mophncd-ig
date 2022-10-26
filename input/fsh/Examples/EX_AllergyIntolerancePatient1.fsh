@@ -4,7 +4,7 @@ Title: "ตัวอย่าง AllergyIntolerance: ประวัติกา
 Description: "ประวัติการแพ้ยา อาหาร เวชภัณฑ์ สิ่งแวดล้อม สารเคมี ฯลฯ"
 Usage: #example
 * extension[0]
-  * url = $EX_TH_AllergyIntoleranceCertainy
+  * url = $EX_TH_AllergyIntoleranceCertainty
   * valueCodeableConcept
     * coding[0] = $CS_THCC_AllergyCertainty#1 "certain"
 * clinicalStatus

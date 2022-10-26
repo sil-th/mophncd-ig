@@ -2,7 +2,7 @@ Profile: MophNcdOrganizationBase
 Parent: Organization
 Id: mophncd-organization-base
 Title: "MoPH-NCD Organization"
-Description: "หน่วยงานต่าง ๆ หน่วยบริการสุขภาพ"
+Description: "หน่วยงานต่าง ๆ และหน่วยบริการสุขภาพ"
 * ^url = $SD_Organization_Base
 * ^status = #draft
 * ^publisher = "Standards and Interoperability Lab - Thailand (SIL-TH)"

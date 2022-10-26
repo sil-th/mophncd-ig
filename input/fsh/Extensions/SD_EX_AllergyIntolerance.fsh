@@ -1,8 +1,8 @@
-Extension: EX_TH_AllergyIntoleranceCertainy
-Id: ex-allergyintolerance-allergy-certainy
+Extension: EX_TH_AllergyIntoleranceCertainty
+Id: ex-allergyintolerance-allergy-certainty
 Title: "AllergyIntolerance: Certainty"
 Description: "รหัสประเภทการวินิจฉัยการแพ้ยา"
-* ^url = $EX_TH_AllergyIntoleranceCertainy
+* ^url = $EX_TH_AllergyIntoleranceCertainty
 * ^version = "4.3.0"
 * ^status = #draft
 * ^experimental = false
@@ -13,7 +13,7 @@ Description: "รหัสประเภทการวินิจฉัยก
 * . 0..*
 * . ^short = "รหัสประเภทการวินิจฉัยการแพ้ยา"
 * . ^definition = "รหัสประเภทการวินิจฉัยการแพ้ยา"
-* url = $EX_TH_AllergyIntoleranceCertainy (exactly)
+* url = $EX_TH_AllergyIntoleranceCertainty (exactly)
 * value[x] 1..
 * value[x] only CodeableConcept
 * value[x] from $VS_THCC_AllergyCertainy (extensible)
