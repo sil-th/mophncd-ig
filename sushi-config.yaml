@@ -18,7 +18,7 @@ publisher: Standards and Interoperability Lab - Thailand (SIL-TH)
 jurisdiction: "urn:iso:std:iso:3166#TH"
 description: An implementation guide for adopting FHIR for health information exchange about NCD care in for the Big Rock 2 project
 license: CC0-1.0
-fhirVersion: 4.3.0
+fhirVersion: 4.0.1
 dependencies:
   sil-th.terms.core: dev
   hl7.fhir.uv.ips: 1.0.0
